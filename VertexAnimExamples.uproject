@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "VertexAnimToolset",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d998b22372a44975b312e85cf663bbab"
+		}
+	]
+}
